@@ -241,7 +241,7 @@ Actionable Recommendations
 | :--- | :--- |
 | **2609027 Archee** | Dataset selection, data understanding, initial preprocessing and data cleaning |
 | **2609038  Adnan Ulde** | Exploratory Data Analysis, statistical summaries and general visualizations |
-| **2609002 Samrin Chaudhari** | Customer-level analysis, inactivity analysis, high-value customer risk analysis, repeat-purchase analysis, cohort retention analysis, storytelling insights and recommendations |
+| **2609002 Samrin Chaudhari** | Customer-level analysis, inactivity analysis, high-value customer risk analysis, repeat-purchase analysis, cohort retention analysis, storytelling insights and recommendations, presentation deck, scriptwriting, and video production |
 
 ## Project Outcome
 
